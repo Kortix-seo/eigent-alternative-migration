@@ -1,6 +1,6 @@
-# Kortix is the open-source AI Operating System
+# Kortix is the open-source CompanyOS
 
-A migration guide for teams that have been running Eigent, a desktop multi-agent Cowork app, and want the same work on a platform the whole company owns. Kortix is the open-source AI Operating System: your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer.
+A migration guide for teams that have been running Eigent, a desktop multi-agent Cowork app, and want the same work on a platform the whole company owns. Kortix is the open-source CompanyOS: your agents, their skills, your company memory, and every connector live in one git repo you own, and each session runs on its own cloud computer.
 
 Eigent is genuinely good at what it does. It runs a multi-agent workforce locally on your own machine, keeps your keys and models on that machine, and lets you inspect and approve each result. Its own site describes a Space where agents, skills, connectors, and instructions are packaged once and reused, with secrets kept on the machine ([Eigent](https://www.eigent.ai)). Teams outgrow that model at the point where the work has to be shared, scheduled, and reviewed by more than one person, and when the configuration needs to live somewhere other than one laptop.
 
