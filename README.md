@@ -33,4 +33,4 @@ The step-by-step version is in the [migration walkthrough](docs/01-migration-wal
 - [Kortix vs Eigent](https://eigentalternative.com/kortix-vs-eigent) for the buyer's comparison.
 - [Self-host an open-source Eigent alternative](https://eigentalternative.com/self-hosting-eigent-alternative) for the hosted walkthrough.
 
-Kortix is open source. Read it, fork it, audit it. The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+Kortix is open source. Read it, fork it, audit it. The code is at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
